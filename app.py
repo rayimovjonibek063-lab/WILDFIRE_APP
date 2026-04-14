@@ -99,7 +99,7 @@ with tab2:
 with tab3:
     st.markdown("<h3 class='section-header'>Yong'in kelib chiqishining asosiy sabablari</h3>", unsafe_allow_html=True)
     reasons = {
-        'Sabab': ['Yuqori harorat', 'Shamol (Tez tarqalish)', 'Inson omili', 'Quruq o'tlar', 'Yashin tushishi'],
+        'Sabab': ["Yuqori harorat", "Shamol (Tez tarqalish)", "Inson omili", "Quruq o'tlar", "Yashin tushishi"],
         'Ehtimollik (%)': [40, 25, 20, 10, 5]
     }
     fig3 = px.pie(reasons, values='Ehtimollik (%)', names='Sabab', hole=.4, color_discrete_sequence=px.colors.sequential.RdBu)
