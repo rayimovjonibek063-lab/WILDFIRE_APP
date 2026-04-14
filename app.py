@@ -129,4 +129,4 @@ if predict_btn:
 
 # --- FOOTER ---
 st.markdown("---")
-st.markdown(f"<p style='text-align: center; color: grey;'>© {datetime.now().year} Jonibek Rayimov | TATU Maxsus loyihasi | Barcha huquqlar himoyalangan.</p>", unsafe_allow_html=True)
+st.markdown(f"<p style='text-align: center; color: grey;'>© {datetime.now().year} Jonibek Rayimov | SAMDU SUN'IY INTELLEKT VA RAQAMLI TEXNOLOGIYALAR FAKULTETI TALABASI MAXSUS LOYIXASI | Barcha huquqlar himoyalangan.</p>", unsafe_allow_html=True)
